@@ -1,2 +1,2 @@
-# HOUSING
-AI &amp; ML Housing Project
+# HOUSE PRICE PREDICTION
+AI &amp; ML House Price Prediction
